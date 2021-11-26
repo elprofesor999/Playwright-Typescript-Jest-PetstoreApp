@@ -1,0 +1,11 @@
+[ {
+  "uid" : "f940ca4ce5ddb3a3",
+  "name" : "TC01 - Login to PetStore Application",
+  "time" : {
+    "start" : 1637874842618,
+    "stop" : 1637874843994,
+    "duration" : 1376
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

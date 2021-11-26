@@ -1,0 +1,52 @@
+{
+  "uid" : "f940ca4ce5ddb3a3",
+  "name" : "TC01 - Login to PetStore Application",
+  "fullName" : "US-1001 Petstore Login TestSuite.TC01 - Login to PetStore Application",
+  "historyId" : "5229787e32206206a4cc6e0def92c25b",
+  "time" : {
+    "start" : 1637874842618,
+    "stop" : 1637874843994,
+    "duration" : 1376
+  },
+  "description" : "User should be able to login PetStore Application successfully with the correct credentials",
+  "descriptionHtml" : "<p>User should be able to login PetStore Application successfully with the correct credentials</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "High"
+  }, {
+    "name" : "story",
+    "value" : "US-1001"
+  }, {
+    "name" : "suite",
+    "value" : "US-1001 Petstore Login TestSuite"
+  }, {
+    "name" : "testClass",
+    "value" : "US-1001 Petstore Login TestSuite"
+  }, {
+    "name" : "testMethod",
+    "value" : "TC01 - Login to PetStore Application"
+  }, {
+    "name" : "package",
+    "value" : "US-1001 Petstore Login TestSuite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f940ca4ce5ddb3a3.json",
+  "parameterValues" : [ ]
+}

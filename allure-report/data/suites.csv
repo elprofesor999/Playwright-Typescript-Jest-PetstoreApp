@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 26 02:44:02 IST 2021","Fri Nov 26 02:44:03 IST 2021","1376","","US-1001 Petstore Login TestSuite","","US-1001 Petstore Login TestSuite","TC01 - Login to PetStore Application","TC01 - Login to PetStore Application","User should be able to login PetStore Application successfully with the correct credentials"

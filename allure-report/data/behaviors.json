@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "US-1001",
+    "children" : [ {
+      "name" : "TC01 - Login to PetStore Application",
+      "uid" : "f940ca4ce5ddb3a3",
+      "parentUid" : "31ba4d3104dd8121581e766c9f51a71a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1637874842618,
+        "stop" : 1637874843994,
+        "duration" : 1376
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "31ba4d3104dd8121581e766c9f51a71a"
+  } ]
+}
